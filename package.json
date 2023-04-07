@@ -1,0 +1,23 @@
+{
+  "name": "meikono-crm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renkai7/Meikono-CRM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renkai7/Meikono-CRM/issues"
+  },
+  "homepage": "https://github.com/Renkai7/Meikono-CRM#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
