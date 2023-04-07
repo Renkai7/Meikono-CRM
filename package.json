@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Renkai7/Meikono-CRM/issues"
   },
-  "homepage": "https://github.com/Renkai7/Meikono-CRM#readme"
+  "homepage": "https://github.com/Renkai7/Meikono-CRM#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
